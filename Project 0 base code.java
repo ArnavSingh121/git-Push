@@ -23,5 +23,6 @@ public class RandomNumberGame {
                 System.out.println("Congratulations! You guessed the correct number.");
             }
         }
+        scanner.close();
     }
 }
